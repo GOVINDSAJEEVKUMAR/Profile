@@ -26,7 +26,7 @@ const Navbar = () => {
                 <div className="flex items-center justify-between h-16">
                     <div className="flex-shrink-0 cursor-pointer">
                         <Link to="hero" smooth={true} duration={500} className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                            Portfolio
+                            GOVIND
                         </Link>
                     </div>
 

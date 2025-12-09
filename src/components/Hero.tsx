@@ -25,7 +25,7 @@ const Hero = () => {
                         className="text-5xl md:text-7xl font-bold mb-6"
                     >
                         <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                            Govind
+                            Govind S Kumar
                         </span>
                     </motion.h1>
 
@@ -71,7 +71,7 @@ const Hero = () => {
                     >
                         <div className="absolute inset-0 bg-gradient-to-tr from-primary to-secondary rounded-full blur-2xl opacity-30 animate-pulse"></div>
                         <img
-                            src="/hero.png"
+                            src="/img.jpg"
                             alt="Govind Profile"
                             className="relative w-full h-full object-cover rounded-full border-4 border-dark ring-2 ring-primary/50 shadow-2xl"
                         />
