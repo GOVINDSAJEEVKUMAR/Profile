@@ -4,21 +4,30 @@ import { Briefcase } from 'lucide-react';
 const Experience = () => {
     const experiences = [
         {
-            id: 1,
-            role: 'Software Engineer',
-            company: 'Fawrit Technologies Pvt Ltd , Ernakulam',
-            period: '06/2025 - Present',
-            description: 'Developed user interfaces for Mobile applications using React Native and Narivewind.'
+            
+        id: 1,
+        role: 'AI Software Engineer',
+        company: 'BizFirst | India',
+        period: '11/2025 - Present',
+        description: 'Develop and maintain production-ready applications aligned with business requirements. Apply clean architecture and reusable components while participating in code reviews. Debug and support deployed systems to ensure reliability and performance. Collaborate with Product, UX, and Data teams in agile development cycles. Use AI tools and agents for code optimization, debugging, and documentation.'
+    
         },
         {
             id: 2,
+            role: 'Software Engineer',
+            company: 'Fawrit Technologies Pvt Ltd , Ernakulam',
+            period: '06/2025 - 11/2025',
+            description: 'Developed user interfaces for Mobile applications using React Native and Narivewind.'
+        },
+        {
+            id: 3,
             role: 'Software  Developer - React Js',
             company: 'Aventus Informativs , Info-park Koratty',
             period: '10/2024 - 05/2025',
             description: 'Collaborated with designers to implement responsive user interfaces. Migrated legacy codebases to modern React frameworks.'
         },
         {
-            id: 3,
+            id: 4,
             role: 'React Developer',
             company: 'Otome Innovations Solutions Pvt Ltd',
             period: '4 Month Contract',
