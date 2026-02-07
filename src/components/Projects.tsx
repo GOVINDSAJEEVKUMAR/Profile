@@ -23,7 +23,8 @@ const Projects = () => {
             description: 'Mobile application for on-demand laundry services including geolocation-based pickup scheduling, order tracking, and service provider listings.',
             tech: ['React Native', 'Nativewind ', 'Expo', 'Google Mpas', 'Firebase'],
             color: 'from-orange-500 to-red-500'
-        }
+        },
+        
     ];
 
     return (

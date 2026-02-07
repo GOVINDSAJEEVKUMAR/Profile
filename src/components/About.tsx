@@ -51,7 +51,7 @@ const About = () => {
                         {/* Optional decorative element or stats */}
                         <div className="w-full md:w-1/3 flex flex-col gap-6">
                             <div className="bg-dark/50 p-6 rounded-xl border border-gray-800 hover:border-primary/50 transition-colors">
-                                <h3 className="text-4xl font-bold text-primary mb-2">1+</h3>
+                                <h3 className="text-4xl font-bold text-primary mb-2">4+</h3>
                                 <p className="text-gray-400">Years of Experience</p>
                             </div>
                             <div className="bg-dark/50 p-6 rounded-xl border border-gray-800 hover:border-secondary/50 transition-colors">
