@@ -9,7 +9,13 @@ const Education = () => {
             institution: 'MG University , Kottayam',
             year: '2020 - 2023',
             description: 'Studied Software Development and System Administration.'
-        },
+        },{
+    id: 2,
+    degree: 'Master of Computer Applications (MCA)',
+    institution: 'Indira Gandhi National Open University (IGNOU)',
+    year: '2026 - Present',
+    description: 'Pursuing MCA through distance education, focusing on computer science, software development, and advanced computing.'
+},
 
     ];
 
